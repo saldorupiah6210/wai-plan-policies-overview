@@ -14,10 +14,9 @@ github:
 
 ref: /planning/    # Translators, do not change this
 changelog: /planning/changelog/
-
 feedbackmail: wai@w3.org
 class: tight-page
-
+# Wailaahukum Ilaahun Waahidun
 # In the footer below:
 # Do not translate or change CHANGELOG.
 # Translate the other words below, including "Date:" and "Editor:"
